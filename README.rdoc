@@ -6,16 +6,14 @@ especificaciones:
 
 * Rails version 4.2.4
 ---------------------------PROYECTO-------------------
-* Configuración => pendiente
+* Configuración => ok
 
 * Database creation => OK
 
 * Database  table  => OK
 
-* Run test => ok--> en proceso 
-
-* Interfaz grafica => pendiente ->chopan
-
+* Run test => ok
+* Interfaz grafica =>ok
 -----------------------------DESCR-------------------
 * Crear una red social enfocada a empresas
 -----------------------------------------------------
@@ -23,22 +21,22 @@ especificaciones:
 Índice(informe)
 
 1.- ENTORNO Y FUNDAMENTOS. 
-    1.1.- Historia y fundamentos del proyecto.=> pendiente
-    1.2.- Problema a resolver. => pendiente
-    1.3.- Acercamientos actual al problema.=> pendiente
-    1.4.- Justificación del proyecto.=> pendiente
+    1.1.- Historia y fundamentos del proyecto.=> ok
+    1.2.- Problema a resolver. => ok
+    1.3.- Acercamientos actual al problema.=> ok
+    1.4.- Justificación del proyecto.=> ok
 
-2.-OBJETIVO DEL  PROYECTO. => pendiente
-    2.1.- Objetivo general. => pendiente
-    2.2.- Objetivos específicos. => pendiente
-    2.3.- Características y beneficios de producto.=> pendiente
-        2.3.1.- Datos del proyectos. => pendiente
-        2.3.2.- Asignación de  cargos.=> pendiente
-3.- ALCANCE DEL PROYECTO.=> pendiente
+2.-OBJETIVO DEL  PROYECTO. => ok
+    2.1.- Objetivo general. => ok
+    2.2.- Objetivos específicos. => ok
+    2.3.- Características y beneficios de producto.=> ok
+        2.3.1.- Datos del proyectos. => ok
+        2.3.2.- Asignación de  cargos.=> ok
+3.- ALCANCE DEL PROYECTO.=> ok
 
-4.-LEVANTAMIENTO DE LOS REQUERIMIENTOS.=> pendiente
-    5.1.- Requerimientos funcionales.=> pendiente
-    5.2.- Requerimientos no funcionales.=> pendiente
+4.-LEVANTAMIENTO DE LOS REQUERIMIENTOS.=> ok
+    5.1.- Requerimientos funcionales.=> ok
+    5.2.- Requerimientos no funcionales.=> ok
 
 5.- ENTREGABLES. =>OK
 
@@ -48,17 +46,17 @@ especificaciones:
 
 7.- CASOS DE USOS. => (opcional)
 
-8.- TIPO DE ARQUITECTURA => pendiente
+8.- TIPO DE ARQUITECTURA => ok
 
-9.- TIPO DE PLATAFORMA. => pendiente
-    9.1.- Operación. => pendiente
-    9.2.- Desarollo => pendiente
+9.- TIPO DE PLATAFORMA. => ok
+    9.1.- Operación. => ok
+    9.2.- Desarollo => ok
 
 10.- DFD. => ok-->felipe
 
-11.- Manual de uso. => pendiente
+11.- Manual de uso. => ok
 
-12.- EStudios de factibilidad. => pendiente
-     12.1.- Tecnica. => pendiente
-     12.2.- Operativa.=> pendiente
-     12.3.- Economica.=> pendiente
+12.- EStudios de factibilidad. => ok
+     12.1.- Tecnica. => ok
+     12.2.- Operativa.=> ok
+     12.3.- Economica.=> ok
